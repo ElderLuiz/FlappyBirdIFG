@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Flappy Bird é um jogo antigo e nostalgico, porém revivido na turma de Dev de Jogos do Professor Ernane .
 
-- [Acesse o projeto finalizado, online](3)
+- [Acesse o projeto finalizado](3)
 
 - [Conheça o IFG](https://www.ifg.edu.br/luziania)
 
