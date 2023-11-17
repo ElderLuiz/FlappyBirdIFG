@@ -2,7 +2,7 @@
 
 <p align="center">
 Projeto Flappy Bird Criado por Elder Luiz Moreira, Estudante no Instituto Federal de Goiás <br/>
-<a href="https://www.ifg.edu.br/ultimas-noticias-campus-luziania/36549-estudantes-do-curso-de-sistemas-de-informacao-desenvolvem-jogos-digitais">Conheça sobre a disciplina sob a supervisão e orientação do professor, Ernane Rosa Martins.</a>
+<a href="https://www.ifg.edu.br/ultimas-noticias-campus-luziania/36549-estudantes-do-curso-de-sistemas-de-informacao-desenvolvem-jogos-digitais">Conheça sobre a disciplina de Desenvolvimento de Games, sob a supervisão e orientação do professor, Ernane Rosa Martins.</a>
 </p>
 
 <p align="center">
